@@ -1,1 +1,1 @@
-export const GUID = '2d8767c8-d16f-4771-8a9e-5012678248df';
+export const GUID = '65a8a000-8878-421c-a369-8757c1b6c348';
